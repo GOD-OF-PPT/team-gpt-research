@@ -187,7 +187,7 @@
 - 够用条件：每天编码 ≤4h，日常用 GPT-5.4-mini，CI/CD 走 API Key
 - 不够用时按优先级：切换 mini → 购买 credits → 超额用 API Key → 核心成员升 Pro
 
-### Q2：官方价格比 OpenRouter 便宜吗？
+### Q2：API调用层面官方价格比 OpenRouter 便宜吗？
 
 **价格完全相同；OpenRouter 还额外提供零数据保留选项。**
 
